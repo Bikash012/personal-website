@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Bus Booking System",
+    "description": "A Django-based web application for bus ticket booking and management. This web application allows users to easily book and manage bus tickets online.",
+    "image": "src/assets/project1.jpg",
+    "link": "https://github.com/Bikash012/Bus_ticket_booking_django"
+  },
+  {
+    "id": 2,
+    "name": "Weather App in React",
+    "description": "Create a dynamic Weather App using React, allowing users to retrieve real-time weather data for any location.",
+    "image": "src/assets/project2.jpg",
+    "link": "https://github.com/Bikash012/Weather-App-in-React"
+  },
+  {
+    "id": 3,
+    "name": "Simple Calculator in Java",
+    "description": "Java Swing Calculator: A user-friendly GUI calculator for basic arithmetic operations, including addition, subtraction, multiplication, and division.",
+    "image": "src/assets/project3.png",
+    "link": "https://github.com/Bikash012/Java-Swing-Calculator"
+  }
+]
